@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MY_DAY" transform="translate(-16.000000, -44.000000)" fill="#FFFFFF">
+            <g id="_burgerMenu_icon*" transform="translate(1.000000, 14.000000)">
+                <g id="burger" transform="translate(15.000000, 30.000000)">
+                    <path d="M0,0 L30,0 L30,2 L0,2 L0,0 Z M0,9 L30,9 L30,11 L0,11 L0,9 Z M0,18 L30,18 L30,20 L0,20 L0,18 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

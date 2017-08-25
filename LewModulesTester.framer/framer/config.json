@@ -1,0 +1,18 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 1,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "apple-iphone-5c-green",
+  "projectId" : "45E4B728-45C2-49B3-AD16-F4392CEF38A5",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+    "{825, 2336}"
+  ],
+  "deviceScale" : 0.25
+}

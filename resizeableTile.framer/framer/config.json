@@ -1,0 +1,20 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "cachedDeviceHeight" : 1136,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 640,
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "apple-iphone-5s-gold",
+  "projectId" : "2A9EAEB1-F4D0-4678-AB96-75CE730633E1",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}

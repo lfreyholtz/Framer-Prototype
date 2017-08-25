@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="2px" viewBox="0 0 325 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>dotted_line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-dasharray="1,5" stroke-linejoin="round">
+        <g id="catalog/detail_page/restaurant" transform="translate(-24.000000, -552.000000)" stroke="#F3F3F3">
+            <g id="Stacked-Group">
+                <g id="organisms/header/restaurants">
+                    <g id="molecules/label/events" transform="translate(24.000000, 431.000000)">
+                        <g id="dotted_line" transform="translate(0.000000, 121.000000)">
+                            <path d="M0,1 L324.503467,1" id="dotted-line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_openingHours</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.54444444,7.48666667 L7.54444444,4.20444444 C7.54444444,3.89333333 7.29555556,3.66 7,3.66 C6.68888889,3.66 6.45555556,3.90888889 6.45555556,4.20444444 L6.45555556,8.80888889 C6.47111111,9.12 6.70444444,9.36888889 7,9.36888889 C7.12444444,9.36888889 7.26444444,9.30666667 7.37333333,9.19777778 L9.67555556,6.91111111 C9.89333333,6.69333333 9.89333333,6.33555556 9.67555556,6.13333333 C9.45777778,5.91555556 9.1,5.91555556 8.89777778,6.13333333 L7.54444444,7.48666667 L7.54444444,7.48666667 Z M7,1 C3.14222222,1 0,4.14222222 0,8 C0,11.8577778 3.14222222,15 7,15 C10.8577778,15 14,11.8577778 14,8 C14,4.14222222 10.8577778,1 7,1 L7,1 L7,1 Z M7,13.5222222 C3.96666667,13.5222222 1.47777778,11.0333333 1.47777778,8 C1.47777778,4.96666667 3.96666667,2.46222222 7,2.46222222 C10.0333333,2.46222222 12.5377778,4.95111111 12.5377778,8 C12.5377778,11.0333333 10.0333333,13.5222222 7,13.5222222 L7,13.5222222 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catalog/detail_page/restaurant" transform="translate(-26.000000, -432.000000)">
+            <g id="Stacked-Group">
+                <g id="organisms/header/restaurants">
+                    <g id="molecules/label/events" transform="translate(24.000000, 431.000000)">
+                        <g id="Stacked-Group">
+                            <g id="time" transform="translate(2.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="icn_openingHours" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

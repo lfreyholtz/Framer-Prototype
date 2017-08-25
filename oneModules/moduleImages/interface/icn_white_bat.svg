@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="10px" viewBox="0 0 53 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Battery</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MY_DAY" transform="translate(-316.000000, -7.000000)">
+            <g id="_status_Bar*" transform="translate(6.000000, 5.000000)">
+                <g id="Battery" transform="translate(309.500000, 0.000000)">
+                    <path d="M52.5,8.5 C53.052,8.5 53.4995,7.97733333 53.4995,7.33333333 L53.4995,6.16666667 C53.4995,5.52266667 53.052,5 52.5,5 L52,5 L52,8.5 L52.5,8.5 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M30,3.49209595 C30,3.22031886 30.2278805,3 30.4910052,3 L36,3 L36,10.5 L30.4910052,10.5 C30.2198305,10.5 30,10.283628 30,10.0079041 L30,3.49209595 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M30.25,2.25 C29.6998497,2.25 29.25,2.71631855 29.25,3.29546384 L29.25,10.2046043 C29.25,10.784127 29.6997986,11.2505 30.25,11.2505 L50.25,11.2505 C50.799942,11.2505 51.25,10.7839655 51.25,10.2046043 L51.25,3.29546384 C51.25,2.71631855 50.8001503,2.25 50.25,2.25 L30.25,2.25 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.5"></path>
+                    <text id="22%" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11.5" font-weight="300" letter-spacing="0.5" fill="#FFFFFF">
+                        <tspan x="0.5" y="11">22</tspan>
+                        <tspan x="14.288" y="11">%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

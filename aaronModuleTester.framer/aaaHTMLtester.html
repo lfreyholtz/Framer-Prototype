@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Stylesheet in einem style-Element definieren</title>
+    <style>
+      body {
+        width: 375px;
+        padding: 24px;
+        background-color: pink;
+      }
+      .detailPage {
+        background-color: white;
+      }
+      .secOHBody {
+        display: flex;
+        justify-content: space-between;
+      }
+      .left, .right {
+        width: 120px
+      }
+      .left {
+        background-color: lightblue;
+      }
+      .right {
+        background-color: yellow;
+        text-align: right
+      }
+
+
+    </style>
+  </head>
+  <body>
+    <div class="detailPage">
+
+      <div class="secOHBody">
+
+        <div class="left">
+          hello LEFT
+        </div>
+        <div class="right">
+          <div>hello RIGHT</div>
+          <div>hello RIGHT</div>
+          <div>hello RIGHT</div>
+          <div>hello RIGHT</div>
+        </div>
+
+      </div>
+      
+    </div>
+  </body>
+</html>

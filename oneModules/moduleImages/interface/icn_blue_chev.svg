@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.592576059 8.63805071 1.24075727 9.3451575 5.26010279 4.96041693 1.25966735 0.596305545 0.611486132 1.30341233 3.96374036 4.96041693"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="itinerary/my-day" transform="translate(-335.000000, -955.000000)">
+            <g id="Stacked-Group" transform="translate(-296.000000, 904.000000)">
+                <g id="Meine-Termine-Heute" transform="translate(318.000000, 0.000000)">
+                    <g id="Stacked-Group" transform="translate(0.000000, 44.000000)">
+                        <g id="chevron" transform="translate(313.250000, 7.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#3399CC" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="⤷color" mask="url(#mask-2)" fill="#3399CC">
+                                <g transform="translate(-8.250000, -7.000000)" id="Color">
+                                    <rect x="0" y="0" width="22" height="24"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
